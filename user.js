@@ -6,3 +6,15 @@ user_pref("sidebar.expandOnHover",true);
 user_pref("sidebar.animation.expand-on-hover.delay-duration-ms",50);
 user_pref("sidebar.animation.expand-on-hover.duration-ms",150);
 user_pref("browser.profiles.enabled",true);
+user_pref("browser.newtabpage.activity-stream.showSearch",false);
+user_pref("browser.newtabpage.activity-stream.showSponsoredCheckboxes",false);
+user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites",false);
+user_pref("browser.ctrlTab.sortByRecentlyUsed",true);
+user_pref("browser.ai.control.linkPreviewKeyPoints",blocked);
+user_pref("browser.ai.control.pdfjsAltText",blocked);
+user_pref("browser.ai.control.sidebarChatbot",blocked);
+user_pref("browser.ml.chat.enabled",false);
+user_pref("browser.ml.linkPreview.enabled",false);
+user_pref("extensions.pictureinpicture.enable_picture_in_picture_overrides",true);
+user_pref("media.videocontrols.picture-in-picture.enable-when-switching-tabs.enabled",true);
+user_pref("browser.uiCustomization.state",{"placements":{"widget-overflow-fixed-list":["preferences-button","fxa-toolbar-menu-button","downloads-button","alltabs-button"],"unified-extensions-area":["ublock0_raymondhill_net-browser-action","vpn_proton_ch-browser-action"],"nav-bar":["sidebar-button","back-button","forward-button","stop-reload-button","bookmarks-menu-button","vertical-spacer","urlbar-container","customizableui-special-spring3","unified-extensions-button"],"toolbar-menubar":["menubar-items"],"TabsToolbar":[],"vertical-tabs":["tabbrowser-tabs"],"PersonalToolbar":["personal-bookmarks"]},"seen":["vpn_proton_ch-browser-action","ublock0_raymondhill_net-browser-action","developer-button","screenshot-button"],"dirtyAreaCache":["unified-extensions-area","nav-bar","TabsToolbar","vertical-tabs","widget-overflow-fixed-list","toolbar-menubar","PersonalToolbar"],"currentVersion":23,"newElementCount":7})
