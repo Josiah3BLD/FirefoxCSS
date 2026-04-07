@@ -1,5 +1,8 @@
 user_pref("svg.context-properties.content.enabled", true);
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets",true);
+user_pref("sidebar.verticalTabs.dragToPinPromo.dismissed",true);
+user_pref("trailhead.firstrun.didHandleCampaignAction",true);
+user_pref("trailhead.firstrun.didSeeAboutWelcome",true);
 user_pref("browser.tabs.groups.enabled",true);
 user_pref("browser.profiles.enabled",true);
 user_pref("sidebar.visibility","expand-on-hover");
@@ -26,4 +29,3 @@ user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites",false);
 user_pref("browser.newtabpage.activity-stream.system.showWeather",false);
 user_pref("sidebar.main.tools","passwords");
 user_pref("sidebar.backupState",{"command":"","panelOpen":false,"launcherWidth":50,"launcherExpanded":false,"launcherVisible":true});
-user_pref("browser.uiCustomization.state",{"placements":{"widget-overflow-fixed-list":["preferences-button","fxa-toolbar-menu-button","downloads-button","alltabs-button"],"unified-extensions-area":["ublock0_raymondhill_net-browser-action","vpn_proton_ch-browser-action"],"nav-bar":["sidebar-button","back-button","forward-button","stop-reload-button","bookmarks-menu-button","vertical-spacer","urlbar-container","customizableui-special-spring3","unified-extensions-button"],"toolbar-menubar":["menubar-items"],"TabsToolbar":[],"vertical-tabs":["tabbrowser-tabs"],"PersonalToolbar":["personal-bookmarks"]},"seen":["vpn_proton_ch-browser-action","ublock0_raymondhill_net-browser-action","developer-button","screenshot-button"],"dirtyAreaCache":["unified-extensions-area","nav-bar","TabsToolbar","vertical-tabs","widget-overflow-fixed-list","toolbar-menubar","PersonalToolbar"],"currentVersion":23,"newElementCount":7})
