@@ -18,6 +18,7 @@ user_pref("extensions.pictureinpicture.enable_picture_in_picture_overrides",true
 user_pref("media.videocontrols.picture-in-picture.enable-when-switching-tabs.enabled",true);
 
 /* Delete following user_prefs after first boot */
+user_pref("browser.newtabpage.activity-stream.newtabWallpapers.wallpaper","black-waves");
 user_pref("browser.newtabpage.activity-stream.feeds.topsites",false);
 user_pref("browser.newtabpage.activity-stream.showSearch",false);
 user_pref("browser.newtabpage.activity-stream.showSponsoredCheckboxes",false);
