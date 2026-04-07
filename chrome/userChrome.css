@@ -1,6 +1,14 @@
-/* Reduce Vertical Tabs Padding */
-#tabbrowser-tabs[orient="vertical"] {
-    & .tabbrowser-tab:not([pinned]) {
-      padding-block: 0px 0px !important;
-    }
+/* Reduce padding in unpinned vertical tabs */
+#vertical-tabs.customization-target #tabbrowser-tabs tab:not([pinned]) .tab-background { 
+margin-block: -2px !important;   /*adjust*/
+}
+
+/* Reduce padding in pinned vertical tabs */
+#vertical-tabs.customization-target #tabbrowser-tabs tab[pinned] .tab-background { 
+margin-block: -2px !important;   /*adjust*/
+}
+
+/* Reduce padding between pinned/unpinned tabs */
+#vertical-pinned-tabs-container {
+margin-bottom: -6px !important;
 }
